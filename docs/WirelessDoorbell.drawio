@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="sdPkDWaqlXN-ObmEt0HX" name="RingerSoftwareFlow">
-        <mxGraphModel dx="591" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
+        <mxGraphModel dx="734" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
             <root>
                 <mxCell id="gkxUUxY1vln-tStj2z7m-0"/>
                 <mxCell id="gkxUUxY1vln-tStj2z7m-1" parent="gkxUUxY1vln-tStj2z7m-0"/>
@@ -99,7 +99,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="eKItt3fhPgxs0ZYlgYv0" name="RingerSoftwareArch">
-        <mxGraphModel dx="239" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
+        <mxGraphModel dx="734" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
             <root>
                 <mxCell id="0iDM6FrSltFbo_BFfYHy-0"/>
                 <mxCell id="0iDM6FrSltFbo_BFfYHy-1" parent="0iDM6FrSltFbo_BFfYHy-0"/>
@@ -122,7 +122,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="HighLevelArch" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-        <mxGraphModel dx="502" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="864" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0" style=";html=1;"/>
                 <mxCell id="1" style=";html=1;" parent="0"/>
@@ -209,6 +209,17 @@
                 </mxCell>
                 <mxCell id="9m7NxkryejvWXKkI9qjT-36" value="External Antena" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="900" y="656" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="GMFkz1sXCfb-VeYibP0E" name="NotifierSoftwareArch">
+        <mxGraphModel dx="812" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="OBI1Su9WNJdA58IUaAb8-0"/>
+                <mxCell id="OBI1Su9WNJdA58IUaAb8-1" parent="OBI1Su9WNJdA58IUaAb8-0"/>
+                <mxCell id="xMJvxqK4tu0GUap7SlVh-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="OBI1Su9WNJdA58IUaAb8-1">
+                    <mxGeometry x="170" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
